@@ -159,6 +159,6 @@ export const contentPortfolio = [
   {
     id: 6,
     title: "Content Banking App",
-    img: "https://images.pexels.com/photos/1478477/pexels-photo-1478477.jpeg?auto=compress&cs=tinysrgb&w=600",
+    img: "https://images.pexels.com/photos/1478477/pexels-photo-1478477.jpeg?auto=compress&cs=tinysrgb&w=600 ",
   },
 ];
